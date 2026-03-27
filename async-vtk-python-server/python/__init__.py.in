@@ -1,0 +1,5 @@
+import vtkmodules.vtkCommonCore
+
+__all__ = [@python_modules_string@]
+
+@python_module_imports@

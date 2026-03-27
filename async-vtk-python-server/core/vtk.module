@@ -1,0 +1,18 @@
+NAME
+  AsyncDemo::Core
+LIBRARY_NAME
+  asyncDemoCore
+SPDX_LICENSE_IDENTIFIER
+  BSD-3-Clause
+SPDX_COPYRIGHT_TEXT
+  Copyright (c) Kitware, Inc.
+DEPENDS
+  VTK::CommonCore
+  VTK::CommonColor
+  VTK::CommonDataModel
+  VTK::CommonExecutionModel
+PRIVATE_DEPENDS
+  VTK::FiltersCore
+  VTK::FiltersGeometry
+  VTK::IOXML
+  VTK::WrappingPythonCore

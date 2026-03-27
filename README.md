@@ -10,6 +10,10 @@ The client-server directory aim to answer core questions like:
 
 [More details](./client-server/README.md)
 
+## async-vtk-python-server
+
+This is a demo of an asynchronous VTK Python server. [More details](./async-vtk-python-server/README.md)
+
 # VTK.wasm
 
 ...
